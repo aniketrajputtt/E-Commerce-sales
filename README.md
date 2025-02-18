@@ -25,12 +25,7 @@ Are there interactive filters and slicers?
 💡 Example:
 "The Power BI dashboard includes dynamic visualizations to track sales performance, regional trends, and top-selling products."
 
-GitHub Documentation Template
-Once you gather the above details, use this structure:
 
-md
-Copy
-Edit
 # Blinkit Sales Report (Power BI)
 
 ## 📊 Project Overview
@@ -59,6 +54,3 @@ This Power BI project provides an in-depth analysis of Blinkit's sales performan
 3. Check **Data Model** for relationships and calculations.
 
 ---
-Next Steps
-Open your Power BI file and review the details.
-Fill in the missing project-specific insights.
